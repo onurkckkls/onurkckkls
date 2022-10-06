@@ -4,7 +4,7 @@
 - ⚡ I’m developing in PHP for a long time and I’m intermediate level in Python. Also I have used C#, JavaScript, Java for several projects
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on information, technical sharing
-- 📫 You can reach me with e-mail: k.onur94@gmail.com
+- 📫 You can reach me with linkedin: onurkckkls
 
 <!---
 onurkckkls/onurkckkls is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
